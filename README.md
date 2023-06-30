@@ -1,1 +1,1 @@
-# Anomaly-Detection-Using-ML
+This is a collection of machine learning programs that I used during the writing of a research paper testing the hypothesis that machine learning can be effective at detecting computer hackings in the future. I trained the programs on the CICIDS2017 dataset. 
